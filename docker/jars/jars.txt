@@ -1,0 +1,33 @@
+This file contains the locations to download the relevent .jar files
+Current version in parentheses
+
+(1.10.15)   https://mvnrepository.com/artifact/org.apache.ant/ant
+(1.10.15)   https://mvnrepository.com/artifact/org.apache.ant/ant-launcher
+(1.1.2)     https://mvnrepository.com/artifact/org.apiguardian/apiguardian-api
+(9.7.1)     https://mvnrepository.com/artifact/org.ow2.asm/asm
+(2.06b)     https://mvnrepository.com/artifact/org.apache-extras.beanshell/bsh
+(1.15.10)   https://mvnrepository.com/artifact/net.bytebuddy/byte-buddy
+(1.15.10)   https://mvnrepository.com/artifact/net.bytebuddy/byte-buddy-agent
+(3.3.0)     https://mvnrepository.com/artifact/cglib/cglib
+(10.0.1)    https://mvnrepository.com/artifact/io.cucumber/ci-environment
+(7.20.1)    https://mvnrepository.com/artifact/io.cucumber/cucumber-core
+(18.0.1)    https://mvnrepository.com/artifact/io.cucumber/cucumber-expressions
+(7.20.1)    https://mvnrepository.com/artifact/io.cucumber/cucumber-gherkin
+(7.20.1)    https://mvnrepository.com/artifact/io.cucumber/cucumber-gherkin-messages
+(7.20.1)    https://mvnrepository.com/artifact/io.cucumber/cucumber-java
+(7.20.1)    https://mvnrepository.com/artifact/io.cucumber/cucumber-junit
+(7.20.1)    https://mvnrepository.com/artifact/io.cucumber/cucumber-plugin
+(7.20.1)    https://mvnrepository.com/artifact/io.cucumber/datatable
+(7.20.1)    https://mvnrepository.com/artifact/io.cucumber/docstring
+(30.0.0)    https://mvnrepository.com/artifact/io.cucumber/gherkin
+(3.0)       https://mvnrepository.com/artifact/org.hamcrest/hamcrest
+(3.0)       https://mvnrepository.com/artifact/org.hamcrest/hamcrest-library
+(21.7.0)    https://mvnrepository.com/artifact/io.cucumber/html-formatter
+(2.13.1)    https://mvnrepository.com/artifact/org.jmock/jmock
+(2.13.1)    https://mvnrepository.com/artifact/org.jmock/jmock-junit4
+(2.13.1)    https://mvnrepository.com/artifact/org.jmock/jmock-testjar
+(4.13.2)    https://mvnrepository.com/artifact/junit/junit
+(27.0.0)    https://mvnrepository.com/artifact/io.cucumber/messages
+(5.14.2)    https://mvnrepository.com/artifact/org.mockito/mockito-core
+(3.4)       https://mvnrepository.com/artifact/org.objenesis/objenesis
+(6.1.1)     https://mvnrepository.com/artifact/io.cucumber/tag-expressions
